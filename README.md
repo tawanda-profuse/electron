@@ -20,7 +20,7 @@ This project adheres to the Contributor Covenant
 By participating, you are expected to uphold this code. Please report unacceptable
 behavior to [coc@electronjs.org](mailto:coc@electronjs.org).
 
-## Installation
+## How to Install...
 
 To install prebuilt Electron binaries, use [`npm`](https://docs.npmjs.com/).
 The preferred method is to install Electron as a development dependency in your
